@@ -1,4 +1,12 @@
 module.exports = {
-    PORT:5000,
-    SOCKET:true
+
+
+
+    /*----------------PROJECT-------------------*/
+    PORT: 5000,
+    SOCKET: true,
+    /*----------------END.PROJECT---------------*/
+
+
+   
 }
